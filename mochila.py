@@ -1,3 +1,6 @@
+#Para rodar o código, basta colocar na linha de comando: Python3 mochila.py input.txt
+#O arquivo input está neste mesmo repositório e pode ser alterado, neste arquivo consta o peso da mochila e dos itens, assim como os seus valores
+
 import sys
 
 def mochila(w,values,quantity,capacity):
